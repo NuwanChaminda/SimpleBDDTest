@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"7476d05379adb103c465f9293a314702","name":"API SDET test","statistic":{"failed":0,"broken":0,"skipped":0,"passed":12,"unknown":0,"total":12}},{"uid":"e996564674303048d8db5531907eacba","name":"Selenium SDET test","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
